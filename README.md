@@ -3,3 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas:blue_book:
 
 * Strogonoff de frango
+* Pavê
